@@ -1,4 +1,4 @@
-[![Yusuf's GitHub Banner](./Samaila Yusuf.png)]
+![](https://github.com/user/banner.png)
 
 
 ### Hi there 👋
