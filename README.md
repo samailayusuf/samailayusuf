@@ -1,4 +1,4 @@
-![](./Samaila Yusuf.png)
+![](Samaila Yusuf.png)
 
 
 ### Hi there 👋
