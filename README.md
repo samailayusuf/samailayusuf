@@ -1,3 +1,6 @@
+[![Yusuf's GitHub Banner](./Samaila Yusuf.png)]
+
+
 ### Hi there 👋
 
 
