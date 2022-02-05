@@ -1,4 +1,4 @@
-![](https://github.com/user/banner.png)
+![](./Samaila Yusuf.png)
 
 
 ### Hi there 👋
