@@ -25,6 +25,6 @@ Welcome to my profile I'm **Yusuf Samaila**.
 [](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samailayusuf)](https://github.com/samailayusuf/github-readme-stats)
 
 
