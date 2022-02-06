@@ -1,4 +1,4 @@
-![](Samaila Yusuf.png)
+![](Yusuf.png)
 
 
 ### Hi there 👋
